@@ -24,11 +24,9 @@
         \n\n7. Feel free to ask anything if you need help with other technologies too. There might be someone who can help you!
     </string>
     <string name="website_url">
-        <a href="www.dsckiet.tech">www.dsckiet.tech</a>
+    <a href="http://www.dsckiet.tech">http://www.dsckiet.tech</a>
     </string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_dsc">Welcome to DSC KIET</string>
 
 
 </resources>

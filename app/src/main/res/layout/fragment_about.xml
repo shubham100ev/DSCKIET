@@ -38,50 +38,34 @@
                 android:textSize="18dp" />
 
             <LinearLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="40dp">
-
-                <TextView
-                    style="@style/CustomText"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Website:"
-                    android:textSize="18dp" />
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="@string/website_url"
-                    android:textSize="18dp" />
-            </LinearLayout>
-
-            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="56dp"
-                android:layout_marginBottom="40dp">
+                android:layout_marginTop="44dp"
+                android:layout_marginBottom="100dp">
 
                 <ImageView
+                    android:id="@+id/image_link"
                     android:layout_width="48dp"
                     android:layout_height="48dp"
                     android:layout_gravity="center"
                     android:layout_weight="1"
-                    android:src="@drawable/link" />
+                    android:src="@drawable/ic_link" />
 
                 <ImageView
+                    android:id="@+id/image_github"
                     android:layout_width="48dp"
                     android:layout_height="48dp"
                     android:layout_gravity="center"
                     android:layout_weight="1"
-                    android:src="@drawable/github" />
+                    android:src="@drawable/ic_github" />
 
                 <ImageView
+                    android:id="@+id/image_instagram"
                     android:layout_width="48dp"
                     android:layout_height="48dp"
                     android:layout_gravity="center"
                     android:layout_weight="1"
-                    android:src="@drawable/instagram" />
+                    android:src="@drawable/ic_instagram" />
             </LinearLayout>
 
         </LinearLayout>
