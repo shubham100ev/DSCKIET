@@ -9,14 +9,6 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link UpcomingEventsFragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- * Use the {@link UpcomingEventsFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
 public class UpcomingEventsFragment extends Fragment {
 
     public UpcomingEventsFragment() {

@@ -19,6 +19,7 @@
         android:layout_height="wrap_content"
         android:text="DSC KIET"
         android:textSize="42dp"
+        android:paddingHorizontal="8dp"
         android:layout_centerHorizontal="true"
         android:textColor="@color/colorPrimary"
         style="@style/CustomText"/>
